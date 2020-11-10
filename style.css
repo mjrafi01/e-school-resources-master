@@ -1,0 +1,40 @@
+body{
+font-family: 'Poppins',sans-serif;
+}
+.topbar{
+
+   margin-top: 25px;
+   height: 60px;
+   margin-bottom: 50px;
+}
+.navbar-brand img {
+    
+    width: 198px;
+    height: 59px;
+   
+}
+.btn{
+    
+  
+    
+height: 43px;
+text-align: center;
+background-color: #21B573;
+color: white;
+border-radius: 33px;
+border-style: none;
+padding: 12px 26px;
+
+}
+.headdesign{
+   
+    font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 70px;
+margin-bottom: 50px;
+}
+.textdesign{
+    color:  #21B573 ;
+}
