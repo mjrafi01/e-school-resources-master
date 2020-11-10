@@ -1,10 +1,23 @@
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { 
+    .topbar{
+        background-color: #21B573;
+    }
+}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+
+@media (min-width: 992px) { ... }
+
 body{
 font-family: 'Poppins',sans-serif;
 }
 .topbar{
 
    margin-top: 25px;
-   height: 60px;
+   
    margin-bottom: 50px;
 }
 .navbar-brand img {
@@ -36,5 +49,5 @@ line-height: 70px;
 margin-bottom: 50px;
 }
 .textdesign{
-    color:  #21B573 ;
+    color:  #21B573;
 }
