@@ -1,8 +1,7 @@
 .topbar{
 
    margin-top: 25px;
-   
-   margin-bottom: 50px;
+    margin-bottom: 50px;
 }
 .navbar-brand img {
     
@@ -11,16 +10,13 @@
    
 }
 .btn{
-    
-  
-    
 height: 43px;
 text-align: center;
 background-color: #21B573;
 color: white;
 border-radius: 33px;
 border-style: none;
-padding: 12px 26px;
+padding: 10px 26px;
 
 }
 .headdesign{
@@ -35,3 +31,117 @@ margin-bottom: 50px;
 .textdesign{
     color:  #21B573;
 }
+.service img{
+   width: 66px;
+   height: 85px; 
+  
+}
+.second-content{
+
+    margin-top: 100px;
+}
+.service{
+    width: 278px;
+    height: 270px;
+    text-align: center;
+}
+.headline{
+    font-family: poppins;
+    text-align: center;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+    
+}
+.service p{
+    margin-top: 20px;
+}
+.onlineheadline{
+    text-align: center;
+    margin-bottom: 80px;
+
+}
+.onlinecourses{
+
+    width: 370px;
+height: 483px;
+}
+.onlinecourses img{
+    width: 331px;
+    height: 234px;  
+    margin-bottom: 19px;
+}
+.coursestitle{
+    font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+    width: 237px;
+height: 36px;
+
+}
+.testimonialheadline{
+text-align: center;
+margin-bottom: 76px;
+
+}
+.testimonialIcon img{
+    width: 128px;
+height: 120px;
+
+}
+.testimonialcontent p{
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 38px;
+width: 788px;
+padding-left: 50px;
+
+}
+.footercontent{
+    background: #282531;
+    color: white;
+
+}
+
+
+.footercontent li{
+    line-height: 30px;
+    
+}
+.footercontent a{
+
+    color: white;
+    text-decoration: none;
+}
+.footercontent ul  {
+    list-style-type: none;
+  }
+  .footerelements {
+      margin: 106px;
+      padding: 50px;
+    
+  }
+ footer{
+     color: #CDCDCD;
+     font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+text-align: center;
+ }
+.footerelements span{
+    color: tomato;
+    font-size: 26px;
+
+    line-height: 30px;
+}
+
+
+
+
+
